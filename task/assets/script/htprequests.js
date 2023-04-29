@@ -52,5 +52,4 @@ fetch (`${baseURL}/categories/${id}`,{
     body:JSON.stringify(category)
 })
     
-    
 }
